@@ -1,0 +1,45 @@
+.main-header {
+    display: flex;
+    background-color: #333
+}
+
+.MainTitle {
+   color: white;
+    padding: 10px;
+    padding-left: 30px
+    
+}
+
+.Logo {
+    width: 101px;
+    height: 101px;
+    padding-left: 80px
+    
+}
+
+.navbar ul {
+    margin: 0 10px;
+    display: flex;
+}
+
+.navbar li {
+    padding-right: 15px;
+    padding-top: 40px;
+    list-style: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    display: flex;
+    background-color: #333
+}
+
+.footerp {
+   color: white;
+    padding: 10px;
+    padding-left: 30px
+}
